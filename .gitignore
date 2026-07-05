@@ -1,0 +1,44 @@
+# brand-pixel .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 环境 / IDE
+.env
+.venv
+venv/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 输出目录（不提交生成物）
+output/
+examples/
+
+# 测试脚本（不是正式代码）
+test_pyx.py
+factor_test.py
+fix_test.py
+test_report*.html
+
+# 本地项目文档
+精进审计报告.md
+项目需求书.md
+
+# 用户照片（隐私，不提交上传）
+photos/*.jpg
+photos/*.jpeg
+photos/*.png
+photos/*.bmp
+photos/*.webp
+!photos/.gitkeep
+
+# OS
+Thumbs.db
+.DS_Store
