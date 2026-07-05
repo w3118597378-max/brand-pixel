@@ -43,6 +43,22 @@ python app.py
 
 ---
 
+## Screenshots · 界面截图
+
+### 🎨 Style Workshop · 风格工坊
+
+![Style Workshop Tab](screenshot.png)
+
+*Upload a reference image → extract colors → name and save as a preset.*
+
+### 🖼️ Pixel Art Generator · 像素画生成
+
+![Pixel Art Generator Tab](screenshot_tab2.png)
+
+*Upload target photo → select preset → adjust parameters → generate pixel art.*
+
+---
+
 ## Web Interface · Web 界面
 
 ```bash
